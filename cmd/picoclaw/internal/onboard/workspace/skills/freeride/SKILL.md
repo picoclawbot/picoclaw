@@ -7,6 +7,7 @@ FreeRide gives you unlimited free AI in PicoClaw by automatically managing OpenR
 - `/freeride auto`: Auto-configure best model + fallbacks.
 - `/freeride list`: See all 30+ free models ranked.
 - `/freeride status`: Check your current setup.
+- `/freeride timeout 120`: Set request timeout for free models (seconds).
 
 ## How it works
 
